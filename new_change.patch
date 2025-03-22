@@ -1,0 +1,40 @@
+diff --git a/v1 b/v1
+index a4d7b08..35c2fae 100644
+--- a/v1
++++ b/v1
+@@ -2,6 +2,4 @@
+ #2
+ #3
+ #4
+-#5
+-#7
+-#8
+\ No newline at end of file
++свампиртоьл
+\ No newline at end of file
+diff --git a/v2 b/v2
+index 0b31b49..3cf24c9 100644
+--- a/v2
++++ b/v2
+@@ -2,4 +2,5 @@
+ #7
+ #8
+ #9
+-#10
+\ No newline at end of file
++#10
++всампиртоьлб
+\ No newline at end of file
+diff --git a/v3 b/v3
+index 4039b67..35bbd86 100644
+--- a/v3
++++ b/v3
+@@ -2,4 +2,5 @@
+ #12
+ #13
+ #14
+-#15
+\ No newline at end of file
++#15
++всампиртоь
+\ No newline at end of file
